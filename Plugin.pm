@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use attributes ();
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 # Code stolen from Simon Cozens (Maypole)
 our %remember;

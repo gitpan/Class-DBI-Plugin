@@ -1,5 +1,8 @@
 Revision history for Perl extension Class::DBI::Plugin.
 
+0.03  Fri Jul 23 16:47:00
+	- bugfix in Makefile.PL: prereq lacked version number
+
 0.02  Mon Jul  5 22:25:00 2004
 	- added note in README that full tests need both DBD::SQLite and
 	  SQL::Abstract
